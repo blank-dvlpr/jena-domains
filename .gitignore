@@ -1,1 +1,10 @@
+# Eclipse project artifacts
+.classpath
+.project
+.settings/
+
+# Emacs artifacts
+.gitignore~
+
+# Maven artifacts
 target/
